@@ -9,7 +9,9 @@ public class TestDebug {
 		v="fgfgfgfgf";	
 		v1="aaaaa";
 		System.out.println(v);
+		System.out.println(v1);
 		System.out.println(v);
+		
 	}
 
 }
