@@ -6,6 +6,7 @@ public class TestDebug {
 		// TODO Auto-generated method stub
 		String v;
 		v="fgfgfgfgf";	
+		v="fgfgfgfgf";
 		System.out.println(v);
 	}
 
